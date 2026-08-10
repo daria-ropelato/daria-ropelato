@@ -51,7 +51,7 @@ Deepening my UX/UI practice — interaction design, design systems, and front-en
 
 **Technical:** Python · SQL · Power BI · Azure · HTML · CSS · Figma · Framer
 
-**Domain:** IT audit · ISO 27001 · SOX · SOC · Data governance · Compliance
+**Domain:** Data Analytics · Risk Analytics · IT audit · ISO 27001 · Data governance · Compliance
 
 ---
 
