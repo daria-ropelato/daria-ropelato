@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 # 👩‍💻 Hi, I'm Daria 
 
-## 🎨 Data Scientist → UX/UI Designer
+## 🎨 Data Scientist · UX/UI Designer
 
 I'm a Senior Data & IT Risk Consultant with 5+ years across Big 4 analytics and technology risk consulting — now channelling that analytical background into UX/UI design.
 
