@@ -71,15 +71,15 @@ MSc Social & Economic Data Science  →  University of Konstanz (DAAD Scholar)
 BSc Mathematical Economics  →  Plekhanov Russian University
 ```
 
-**Technical:** Python · SQL · Power BI · Azure · HTML · CSS · Figma · Framer
-
-**Domain:** IT audit · ISO 27001 · SOX · SOC · Data governance · Compliance
-
 ---
 
 ## 🌱 Currently
 
 Deepening my UX/UI practice — interaction design, design systems, and front-end implementation. Bridging the gap between enterprise data complexity and clear, intuitive interfaces.
+
+**Technical:** Python · SQL · Power BI · Azure · HTML · CSS · Figma · Framer
+
+**Domain:** IT audit · ISO 27001 · SOX · SOC · Data governance · Compliance
 
 ---
 
