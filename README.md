@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 -->
 
 
-
 # 👩‍💻 Hi, I'm Daria 
 
 ## 🎨 Data Scientist → UX/UI Designer
