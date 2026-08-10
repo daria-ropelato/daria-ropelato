@@ -17,23 +17,6 @@ Here are some ideas to get you started:
 -->
 
 
-## 👩‍💻 About Me
-I'm a Data Scientist with a strong background in **AI/ML, Deep Learning, and Data Analytics**. My expertise spans **computer vision, neural networks, and data-driven decision-making**, with practical experience in **Python, TensorFlow, Keras, OpenCV, Scikit-Learn, SQL, and Power BI**. My professional journey includes working in **Big 4 consulting**, focusing on **IT risk assessments, data analytics, and AI-driven solutions**.
-
-## ✨ What You'll Find Here
-My repository showcases projects at the intersection of AI, Deep Learning, and Data Analytics:
-
-- 🪄 **Handwritten Digits Recognition** – A neural network model trained on MNIST to classify handwritten digits, including a GUI for real-time predictions.
-- 🪄 **Virtual Sunglasses Try-On** – A computer vision project using MediaPipe and OpenCV to overlay sunglasses in real time.
-- 🪄**Face Landmarks Detection** – Facial feature tracking with OpenCV and Mediapipe, applicable in AR/VR applications.
-
-## ✨ Interests & Goals
-Passionate about AI-powered solutions, AR/VR applications, and deep learning innovations. Always exploring ways to apply machine learning to real-world challenges in retail, automation, and data-driven strategies.
-
-## ✨ Let's Connect
-I'm open to collaborations, discussions, and exciting AI projects. Feel free to explore my work and connect with me!
-
-
 
 # 👩‍💻 Hi, I'm Daria 
 
@@ -59,17 +42,7 @@ Hands-on ML projects exploring real-world applications:
 **🎬 Front-End & Motion**
 HTML/CSS experiments — including pure CSS seasonal animations with zero JavaScript and zero dependencies. Exploring what's possible at the boundary of code and design.
 
-**→ For UX/UI design work (Figma, Framer, prototypes):** [dariar.framer.website](https://zealous-pudding-914276.framer.app/#demos)
-
----
-
-## 🧠 Background
-
-```
-Big 4 consulting (EY + Deloitte)  →  IT risk, data analytics, technology
-MSc Social & Economic Data Science  →  University of Konstanz (DAAD Scholar)
-BSc Mathematical Economics  →  Plekhanov Russian University
-```
+**→ For UX/UI design work (Figma, Framer, prototypes):** [daria.framer.website](https://zealous-pudding-914276.framer.app/#demos)
 
 ---
 
